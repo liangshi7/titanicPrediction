@@ -1,0 +1,2 @@
+# titanicPrediction
+Kaggle challenge Titanic 
