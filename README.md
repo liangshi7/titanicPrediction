@@ -2,6 +2,7 @@ Survival prediction of Titanic disaster
 =======================================
 
 ![](./Stoewer_Titanic.jpg)
+_(Source from Wikimedia Commons)_
 
 A preliminary R markdown for a Kaggle challenge to predict the 
 survivability of the people on Titanic. Data can be downloaded 
